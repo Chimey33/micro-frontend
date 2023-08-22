@@ -1,0 +1,8 @@
+/application-one/.idea
+
+/application-one/webui/node_modules
+
+/application-shell/.idea
+/application-shell/webui/node_modules
+
+.idea

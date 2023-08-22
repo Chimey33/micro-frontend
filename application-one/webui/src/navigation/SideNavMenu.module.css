@@ -1,0 +1,5 @@
+.list-item-text {
+    white-space: nowrap;
+    overflow: hidden;
+    min-height: 32px
+}

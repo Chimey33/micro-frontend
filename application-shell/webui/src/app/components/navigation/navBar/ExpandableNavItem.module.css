@@ -1,0 +1,9 @@
+.expandable-nav_icon-button {
+    color: #F5F5F5;
+    padding: 10px;
+    margin: 10px;
+}
+
+.expandable-nav_icon-button:focus {
+    box-shadow: inset 0 0 0 2px #F5F5F5;
+}

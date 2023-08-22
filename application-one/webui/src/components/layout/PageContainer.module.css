@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.container__content {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin: 24px;
+}
+
+.container__content__headings {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.container__content__typography {
+    color: #018B39;
+}

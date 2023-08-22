@@ -1,0 +1,13 @@
+.icon {
+    color: #018B39;
+    font-size: 64px;
+    margin-bottom: 24px;
+}
+
+.service-name {
+    font-style: italic;
+}
+
+.button.button {
+    text-transform: none;
+}

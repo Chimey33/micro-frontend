@@ -1,0 +1,5 @@
+/* Any styles added to this file will be truly global and not scoped to this application */
+body {
+    background-color: #F5F5F5;
+    min-height: 100vh;
+}

@@ -1,0 +1,28 @@
+.service-nav_drawer-paper {
+    width: 280px;
+    transition: visibility 0.2s ease-out;
+    margin-top: 65px;
+    color: #F5F5F5;
+    background-color: #FAFAFA;
+}
+
+.service-nav_subheader {
+    color: #018B39;
+}
+
+.service-nav_icon {
+    color: #018B39;
+    font-size: 24px;
+}
+
+.service-nav_menu-item {
+    color: #5F6768;
+}
+
+.service-nav_menu-item:hover {
+    background: #F5F5F5;
+}
+
+.service-nav_nav-link {
+    text-decoration: none;
+}

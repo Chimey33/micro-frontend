@@ -1,0 +1,28 @@
+.empty-state_container {
+	margin: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: calc(100vh - 64px);
+	flex-direction: column;
+	max-width: 80%;
+}
+
+.empty-state_title-container {
+	margin-bottom: 16px;
+}
+
+.empty-state_sub-title-container {
+	text-align: center;
+}
+
+.empty-state_title.empty-state_title {
+	font-weight: bold;
+	color: #018B39;
+}
+
+.empty-state_actions {
+	display: flex;
+	column-gap: 8px;
+	margin-top: 16px;
+}

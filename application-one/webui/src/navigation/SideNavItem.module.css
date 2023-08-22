@@ -1,0 +1,14 @@
+.nav-link-text {
+    text-decoration: none;
+    color: #5F6768;
+}
+
+.list-item__button {
+    white-space: nowrap;
+    overflow: hidden;
+    min-height: 50px;
+}
+
+.list-item__icon {
+    padding-left: 8px;
+}

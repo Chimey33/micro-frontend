@@ -1,0 +1,39 @@
+.nav-bar {
+    background-color: #293435;
+    z-index: 1201;
+}
+
+.nav-bar__home--container {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+}
+
+.nav-bar__logo {
+    align-items: center;
+    display: flex;
+}
+
+.nav-bar__logo img {
+    width: auto;
+    height: 40px;
+}
+
+.nav-bar__icon-button {
+    border-radius: 0;
+}
+
+.nav-items{
+    display:flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.nav-bar__toolbar {
+    gap: 16px;
+    padding-right: 0;
+}
+
+.nav-bar__services {
+    margin-left:auto;
+}
